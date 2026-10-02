@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/crazy/OneDrive/Documents/Unreal Projects/HW_1/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/crazy/OneDrive/Documents/Unreal Projects/HW_1/Content/Map_HW_1.umap",
+				"C:/Users/crazy/OneDrive/Documents/Unreal Projects/HW_1/Content/MyBlueprints/SpinningObject.uasset",
+				"C:/Users/crazy/OneDrive/Documents/Unreal Projects/HW_1/Content/MyBlueprints/BPprogramming.uasset",
+				"C:/Users/crazy/OneDrive/Documents/Unreal Projects/HW_1/Content/MyBlueprints/LightSwitch.uasset",
+				"C:/Users/crazy/OneDrive/Documents/Unreal Projects/HW_1/Content/MyBlueprints/BP_flame.uasset"
+			]
+		}
+	]
+}
