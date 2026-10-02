@@ -1,3 +1,3 @@
 # 310H
-Repo where my homework lives
-HW 1 video 
+<p>Repo where my homework lives</p>
+<p>HW 1 video</p> 
